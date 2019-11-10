@@ -257,18 +257,6 @@ video {
   padding: .5em 2em .5em 2em;
 }
 
-#cookie label:hover {
-  background: #1e7ac9;
-  cursor: pointer;
-}
-
-#close-button {
-  display: none;
-}
-
-#close-button:checked~#cookie-msg {
-  display: none;
-}
 
 @media screen {
   #cookie {
