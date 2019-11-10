@@ -1,4 +1,5 @@
 ﻿Name: Elias alkhouri hanna
 student number: 643934
-taekwon.eu/643934/.
-https://github.com/elias19119/webmarkup-assessment.git
+class : IT1B
+website URL : taekwon.eu/643934/.
+Github URL ://github.com/elias19119/webmarkup-assessment.git
